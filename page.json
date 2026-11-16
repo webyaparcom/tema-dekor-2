@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "id": "38zv1wlafh",
+      "name": {
+        "tr": "Hizmetler",
+        "en": "Services",
+        "ar": "الخدمات"
+      },
+      "description": {
+        "tr": "Beş adımlık süreç ve oda oda tasarım soruları.",
+        "en": "The five-step process and room-by-room design questions.",
+        "ar": "المراحل الخمس وأسئلة التصميم غرفةً غرفة."
+      },
+      "path": "hizmetler",
+      "icon": "design_services",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "rajzpa",
+          "iw1kn1",
+          "thr20g"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Stüdyo",
+        "en": "Studio",
+        "ar": "الاستوديو"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "iw1kn1",
+          "442h95",
+          "thr20g"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Nasıl düşündüğümüz ve kurgusal proje öyküleri.",
+        "en": "How we think, and fictional project stories.",
+        "ar": "طريقة تفكيرنا وقصص مشاريع افتراضية."
+      }
+    },
+    {
+      "id": "anrevz15dr",
+      "name": {
+        "tr": "Projeler",
+        "en": "Projects",
+        "ar": "المشاريع"
+      },
+      "description": {
+        "tr": "Mekânlardan seçilmiş kareler; görseller temsilîdir.",
+        "en": "Frames selected from spaces; images are representative.",
+        "ar": "لقطات مختارة من المساحات؛ الصور تمثيلية."
+      },
+      "path": "referanslar",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "pk3rz6",
+          "442h95"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "a3lqqi117p",
+      "name": {
+        "tr": "Keşif",
+        "en": "Visit",
+        "ar": "الزيارة"
+      },
+      "description": {
+        "tr": "Plandan oda seçerek keşif talebi (demo).",
+        "en": "Visit request by picking rooms on the plan (demo).",
+        "ar": "طلب زيارة باختيار الغرف من المخطط (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "event",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "9kjtoz"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 4,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "v2mxg8",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "WhatsApp ve e-posta kapıları, adres ve stüdyo saatleri.",
+        "en": "WhatsApp and e-mail doors, address and studio hours.",
+        "ar": "بابا واتساب والبريد والعنوان وساعات الاستوديو."
+      }
+    }
+  ],
+  "desc": []
+}

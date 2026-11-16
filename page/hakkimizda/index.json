@@ -1,0 +1,48 @@
+{
+  "name": {
+    "tr": "Stüdyo",
+    "en": "Studio",
+    "ar": "الاستوديو"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "iw1kn1",
+      "442h95",
+      "thr20g"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Nasıl düşündüğümüz ve kurgusal proje öyküleri.",
+    "en": "How we think, and fictional project stories.",
+    "ar": "طريقة تفكيرنا وقصص مشاريع افتراضية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Stüdyo",
+    "en": "Studio",
+    "ar": "الاستوديو"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T18:15:19.934Z",
+  "date": "2026-10-30"
+}

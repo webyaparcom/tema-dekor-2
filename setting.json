@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kalem İç Mimarlık Stüdyosu: Ankara’da konut ve küçük ticari mekânlar için iç mimarlık, dekorasyon ve uygulama yönetimi. Demo site; içerik kurgusaldır.",
+    "en": "Kalem Interior Studio: interior architecture, decoration and site management for homes and small commercial spaces in Ankara. Demo site; content is fictional.",
+    "ar": "استوديو كالم للعمارة الداخلية: عمارة داخلية وديكور وإدارة تنفيذ للمنازل والمساحات التجارية الصغيرة في أنقرة. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "iç mimar, iç mimarlık, dekorasyon, ev dekorasyonu, konsept tasarım, Ankara",
+    "en": "interior architect, interior design, decoration, home styling, concept design, Ankara",
+    "ar": "مهندس داخلي، عمارة داخلية، ديكور، تنسيق المنازل، تصميم مفاهيمي، أنقرة"
+  },
+  "category": "Kurumsal",
+  "name": "Kalem Stüdyo",
+  "domain": "dekor-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "cormorant-garamond",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#C49A52",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "1px",
+    "--mx-radius-md": "2px",
+    "--mx-radius-lg": "3px",
+    "--mx-radius-xl": "4px"
+  },
+  "icon": "icon.png"
+}
