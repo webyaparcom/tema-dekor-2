@@ -1,0 +1,39 @@
+{
+  "id": "a3lqqi117p",
+  "name": {
+    "tr": "Keşif",
+    "en": "Visit",
+    "ar": "الزيارة"
+  },
+  "description": {
+    "tr": "Plandan oda seçerek keşif talebi (demo).",
+    "en": "Visit request by picking rooms on the plan (demo).",
+    "ar": "طلب زيارة باختيار الغرف من المخطط (تجريبي)."
+  },
+  "keyword": {
+    "tr": "keşif, randevu",
+    "en": "visit, appointment",
+    "ar": "زيارة، موعد"
+  },
+  "path": "teklif-al",
+  "icon": "event",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "9kjtoz"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Keşif",
+    "en": "Visit",
+    "ar": "الزيارة"
+  },
+  "date": "2026-11-16T18:08:11.924Z",
+  "update": "2026-11-16T18:15:19.940Z"
+}

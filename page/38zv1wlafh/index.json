@@ -1,0 +1,41 @@
+{
+  "id": "38zv1wlafh",
+  "name": {
+    "tr": "Hizmetler",
+    "en": "Services",
+    "ar": "الخدمات"
+  },
+  "description": {
+    "tr": "Beş adımlık süreç ve oda oda tasarım soruları.",
+    "en": "The five-step process and room-by-room design questions.",
+    "ar": "المراحل الخمس وأسئلة التصميم غرفةً غرفة."
+  },
+  "keyword": {
+    "tr": "Hizmetler",
+    "en": "Services",
+    "ar": "الخدمات"
+  },
+  "path": "hizmetler",
+  "icon": "design_services",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "rajzpa",
+      "iw1kn1",
+      "thr20g"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Hizmetler",
+    "en": "Services",
+    "ar": "الخدمات"
+  },
+  "date": "2026-11-16T18:08:11.907Z",
+  "update": "2026-11-16T18:15:19.930Z"
+}

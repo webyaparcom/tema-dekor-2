@@ -1,0 +1,40 @@
+{
+  "id": "anrevz15dr",
+  "name": {
+    "tr": "Projeler",
+    "en": "Projects",
+    "ar": "المشاريع"
+  },
+  "description": {
+    "tr": "Mekânlardan seçilmiş kareler; görseller temsilîdir.",
+    "en": "Frames selected from spaces; images are representative.",
+    "ar": "لقطات مختارة من المساحات؛ الصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "proje, iç mimarlık",
+    "en": "project, interior design",
+    "ar": "مشروع، عمارة داخلية"
+  },
+  "path": "referanslar",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "pk3rz6",
+      "442h95"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Projeler",
+    "en": "Projects",
+    "ar": "المشاريع"
+  },
+  "date": "2026-11-16T18:08:11.917Z",
+  "update": "2026-11-16T18:15:19.937Z"
+}
