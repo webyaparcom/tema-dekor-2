@@ -3,17 +3,23 @@
   "name": {
     "tr": "Hizmetler",
     "en": "Services",
-    "ar": "الخدمات"
+    "ar": "الخدمات",
+    "de": "Leistungen",
+    "ru": "Услуги"
   },
   "description": {
     "tr": "Beş adımlık süreç ve oda oda tasarım soruları.",
     "en": "The five-step process and room-by-room design questions.",
-    "ar": "المراحل الخمس وأسئلة التصميم غرفةً غرفة."
+    "ar": "المراحل الخمس وأسئلة التصميم غرفةً غرفة.",
+    "de": "Der Fünf-Schritte-Prozess und Gestaltungsfragen Raum für Raum.",
+    "ru": "Процесс из пяти шагов и вопросы по дизайну комната за комнатой."
   },
   "keyword": {
     "tr": "Hizmetler",
     "en": "Services",
-    "ar": "الخدمات"
+    "ar": "الخدمات",
+    "de": "Leistungen",
+    "ru": "Услуги"
   },
   "path": "hizmetler",
   "icon": "design_services",
@@ -34,7 +40,9 @@
   "title": {
     "tr": "Hizmetler",
     "en": "Services",
-    "ar": "الخدمات"
+    "ar": "الخدمات",
+    "de": "Leistungen",
+    "ru": "Услуги"
   },
   "date": "2026-11-16T18:08:11.907Z",
   "update": "2026-11-16T18:15:19.930Z"

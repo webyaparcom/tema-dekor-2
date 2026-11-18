@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Her evi sahibinin gündelik ritmine göre, ölçülü ve yaşanabilir biçimde tasarlamak.</p>",
     "en": "<h2>Our mission</h2>\n<p>To design every home around its owner’s daily rhythm, in a measured and liveable way.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>أن نصمّم كل بيت وفق إيقاع صاحبه اليومي بشكل متّزن وصالح للعيش.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>أن نصمّم كل بيت وفق إيقاع صاحبه اليومي بشكل متّزن وصالح للعيش.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Jedes Haus entsprechend dem täglichen Rhythmus seines Besitzers maßvoll und bewohnbar zu gestalten.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Проектировать каждый дом с учетом повседневного ритма его владельца, продуманно и комфортно.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T18:08:11.744Z",
   "update": "2026-11-16T18:15:19.949Z",
