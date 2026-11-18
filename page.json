@@ -5,12 +5,16 @@
       "name": {
         "tr": "Hizmetler",
         "en": "Services",
-        "ar": "الخدمات"
+        "ar": "الخدمات",
+        "de": "Leistungen",
+        "ru": "Услуги"
       },
       "description": {
         "tr": "Beş adımlık süreç ve oda oda tasarım soruları.",
         "en": "The five-step process and room-by-room design questions.",
-        "ar": "المراحل الخمس وأسئلة التصميم غرفةً غرفة."
+        "ar": "المراحل الخمس وأسئلة التصميم غرفةً غرفة.",
+        "de": "Der Fünf-Schritte-Prozess und Gestaltungsfragen Raum für Raum.",
+        "ru": "Процесс из пяти шагов и вопросы по дизайну комната за комнатой."
       },
       "path": "hizmetler",
       "icon": "design_services",
@@ -31,7 +35,9 @@
       "name": {
         "tr": "Stüdyo",
         "en": "Studio",
-        "ar": "الاستوديو"
+        "ar": "الاستوديو",
+        "de": "Studio",
+        "ru": "Студия"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -53,7 +59,9 @@
       "description": {
         "tr": "Nasıl düşündüğümüz ve kurgusal proje öyküleri.",
         "en": "How we think, and fictional project stories.",
-        "ar": "طريقة تفكيرنا وقصص مشاريع افتراضية."
+        "ar": "طريقة تفكيرنا وقصص مشاريع افتراضية.",
+        "de": "Wie wir denken, und fiktive Projektgeschichten.",
+        "ru": "Как мы думаем, и вымышленные истории проектов."
       }
     },
     {
@@ -61,12 +69,16 @@
       "name": {
         "tr": "Projeler",
         "en": "Projects",
-        "ar": "المشاريع"
+        "ar": "المشاريع",
+        "de": "Projekte",
+        "ru": "Проекты"
       },
       "description": {
         "tr": "Mekânlardan seçilmiş kareler; görseller temsilîdir.",
         "en": "Frames selected from spaces; images are representative.",
-        "ar": "لقطات مختارة من المساحات؛ الصور تمثيلية."
+        "ar": "لقطات مختارة من المساحات؛ الصور تمثيلية.",
+        "de": "Ausgewählte Aufnahmen aus den Räumlichkeiten; Bilder sind repräsentativ.",
+        "ru": "Избранные кадры из помещений; изображения носят иллюстративный характер."
       },
       "path": "referanslar",
       "icon": "photo_library",
@@ -87,12 +99,16 @@
       "name": {
         "tr": "Keşif",
         "en": "Visit",
-        "ar": "الزيارة"
+        "ar": "الزيارة",
+        "de": "Besichtigung",
+        "ru": "Осмотр"
       },
       "description": {
         "tr": "Plandan oda seçerek keşif talebi (demo).",
         "en": "Visit request by picking rooms on the plan (demo).",
-        "ar": "طلب زيارة باختيار الغرف من المخطط (تجريبي)."
+        "ar": "طلب زيارة باختيار الغرف من المخطط (تجريبي).",
+        "de": "Besichtigungswunsch durch Auswahl von Zimmern im Grundriss (Demo).",
+        "ru": "Запрос на осмотр путём выбора комнат на плане (демо)."
       },
       "path": "teklif-al",
       "icon": "event",
@@ -111,7 +127,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -132,7 +150,9 @@
       "description": {
         "tr": "WhatsApp ve e-posta kapıları, adres ve stüdyo saatleri.",
         "en": "WhatsApp and e-mail doors, address and studio hours.",
-        "ar": "بابا واتساب والبريد والعنوان وساعات الاستوديو."
+        "ar": "بابا واتساب والبريد والعنوان وساعات الاستوديو.",
+        "de": "WhatsApp- und E-Mail-Kontakte, Adresse und Studiozeiten.",
+        "ru": "Контакты в WhatsApp и по электронной почте, адрес и часы работы студии."
       }
     }
   ],

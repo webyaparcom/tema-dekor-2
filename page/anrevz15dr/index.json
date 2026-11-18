@@ -3,17 +3,23 @@
   "name": {
     "tr": "Projeler",
     "en": "Projects",
-    "ar": "المشاريع"
+    "ar": "المشاريع",
+    "de": "Projekte",
+    "ru": "Проекты"
   },
   "description": {
     "tr": "Mekânlardan seçilmiş kareler; görseller temsilîdir.",
     "en": "Frames selected from spaces; images are representative.",
-    "ar": "لقطات مختارة من المساحات؛ الصور تمثيلية."
+    "ar": "لقطات مختارة من المساحات؛ الصور تمثيلية.",
+    "de": "Ausgewählte Aufnahmen aus den Räumlichkeiten; Bilder sind repräsentativ.",
+    "ru": "Избранные кадры из помещений; изображения носят иллюстративный характер."
   },
   "keyword": {
     "tr": "proje, iç mimarlık",
     "en": "project, interior design",
-    "ar": "مشروع، عمارة داخلية"
+    "ar": "مشروع، عمارة داخلية",
+    "de": "Projekt, Innenarchitektur",
+    "ru": "проект, дизайн интерьера"
   },
   "path": "referanslar",
   "icon": "photo_library",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Projeler",
     "en": "Projects",
-    "ar": "المشاريع"
+    "ar": "المشاريع",
+    "de": "Projekte",
+    "ru": "Проекты"
   },
   "date": "2026-11-16T18:08:11.917Z",
   "update": "2026-11-16T18:15:19.937Z"

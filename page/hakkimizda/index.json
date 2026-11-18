@@ -2,7 +2,9 @@
   "name": {
     "tr": "Stüdyo",
     "en": "Studio",
-    "ar": "الاستوديو"
+    "ar": "الاستوديو",
+    "de": "Studio",
+    "ru": "Студия"
   },
   "status": "play",
   "category": "",
@@ -24,7 +26,9 @@
   "description": {
     "tr": "Nasıl düşündüğümüz ve kurgusal proje öyküleri.",
     "en": "How we think, and fictional project stories.",
-    "ar": "طريقة تفكيرنا وقصص مشاريع افتراضية."
+    "ar": "طريقة تفكيرنا وقصص مشاريع افتراضية.",
+    "de": "Wie wir denken, und fiktive Projektgeschichten.",
+    "ru": "Как мы думаем, и вымышленные истории проектов."
   },
   "spot": {
     "tr": "",
@@ -35,12 +39,16 @@
   "title": {
     "tr": "Stüdyo",
     "en": "Studio",
-    "ar": "الاستوديو"
+    "ar": "الاستوديو",
+    "de": "Studio",
+    "ru": "Студия"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T18:15:19.934Z",

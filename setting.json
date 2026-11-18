@@ -4,12 +4,16 @@
   "description": {
     "tr": "Kalem İç Mimarlık Stüdyosu: Ankara’da konut ve küçük ticari mekânlar için iç mimarlık, dekorasyon ve uygulama yönetimi. Demo site; içerik kurgusaldır.",
     "en": "Kalem Interior Studio: interior architecture, decoration and site management for homes and small commercial spaces in Ankara. Demo site; content is fictional.",
-    "ar": "استوديو كالم للعمارة الداخلية: عمارة داخلية وديكور وإدارة تنفيذ للمنازل والمساحات التجارية الصغيرة في أنقرة. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "استوديو كالم للعمارة الداخلية: عمارة داخلية وديكور وإدارة تنفيذ للمنازل والمساحات التجارية الصغيرة في أنقرة. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Kalem İç Mimarlık Stüdyosu: Innenarchitektur, Dekoration und Ausführungsleitung für Wohnungen und kleine Gewerberäume in Ankara. Demo-Website; Inhalte sind fiktiv.",
+    "ru": "Kalem İç Mimarlık Stüdyosu: дизайн интерьеров, оформление и управление реализацией для квартир и небольших коммерческих помещений в Анкаре. Демо-сайт; содержание условное."
   },
   "keyword": {
     "tr": "iç mimar, iç mimarlık, dekorasyon, ev dekorasyonu, konsept tasarım, Ankara",
     "en": "interior architect, interior design, decoration, home styling, concept design, Ankara",
-    "ar": "مهندس داخلي، عمارة داخلية، ديكور، تنسيق المنازل، تصميم مفاهيمي، أنقرة"
+    "ar": "مهندس داخلي، عمارة داخلية، ديكور، تنسيق المنازل، تصميم مفاهيمي، أنقرة",
+    "de": "Innenarchitekt, Innenarchitektur, Dekoration, Wohnungsdekoration, Konzeptdesign, Ankara",
+    "ru": "дизайнер интерьера, дизайн интерьера, декор, декор дома, концептуальный дизайн, Анкара"
   },
   "category": "Kurumsal",
   "name": "Kalem Stüdyo",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,
